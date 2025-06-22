@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
+      background-image: url('https://i.ibb.co/mqgL6D1/Messenger-creation-3764303f-ed4b-4487-abc8-1eec8b7959a1.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">♛♥彡𝐁𝐚𝐝𝐦𝐨𝐒 𝐑𝐚𝐇𝐮𝐥 𝐑𝐮𝐋𝐞𝐱♛♥☨</h1>
+    <h1 class="mt-3">⤾➝𝐓𝐇3 𝐔𝐍𝐒𝐓𝐎𝐏𝐏4𝐁𝐋3 𝐋𝐎9𝐃3𝐑 𝐁9𝐉 𝐑𝐖𝐇𝐔𝐋 𝐇3𝐑3⇣</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️ʀᴀʜᴜʟ.ᴍᴇᴇɴᴀ😈🐧</p>
+    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ⇣🤍ʀᴀʜᴜʟ.ᴍᴇᴇɴᴀ😈🐧</p>
     <p> 𝐑𝐀𝐇𝐔𝐋 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://www.facebook.com/profile.php?id=61577865290465">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+no watsapp" class="whatsapp-link">
@@ -202,4 +202,4 @@ def stop_task():
  
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-     
+             
