@@ -171,7 +171,7 @@ def send_message():
     <p> 𝐑𝐀𝐇𝐔𝐋 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://www.facebook.com/profile.php?id=61577865290465">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+no watsapp" class="whatsapp-link">
-        <i class="fab fa-whatsapp"></i> 9929083380
+        <i class="fab fa-whatsapp"></i> 99xxxx
       </a>
     </div>
   </footer>
